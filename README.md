@@ -2,7 +2,7 @@
 - 👀 Meus interesses são o desenvolvimento de aplicações web, design(UX/UI) e inovações tecnologicas.
 - 🌱 Atualmente atuo em projetos individuais e estou me especializando no curso da EBAC;
 - 💞️ Estou buscando minha inserção no mercado de trabalho;
-- 📫 Meu perfil no linkedin pode ser acessado <a href="https://www.linkedin.com/in/matheus-ferretti-550392264/">aqui</a>
+- 📫 Meu perfil no linkedin pode ser acessado <a href="https://www.linkedin.com/in/matheus-ferretti-550392264/">aqui</a>.
 
 <!---
 MatheusFerretti-1508/MatheusFerretti-1508 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

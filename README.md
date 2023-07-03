@@ -1,7 +1,7 @@
 - 👋 Oi, eu me chamo Matheus, tenho contato com desenvolvimento web desde 2018;
 - 👀 Meus interesses são o desenvolvimento de aplicações web, design(UX/UI) e inovações tecnologicas.
 - 🌱 Atualmente atuo em projetos individuais e estou me especializando no curso da EBAC;
-- 💞️ Estou buscando minha inserção no mercado de trabalho;
+- 💼 Estou buscando minha inserção no mercado de trabalho;
 - 📫 Meu perfil no linkedin pode ser acessado <a href="https://www.linkedin.com/in/matheus-ferretti-550392264/">aqui</a>.
 
 <!---
